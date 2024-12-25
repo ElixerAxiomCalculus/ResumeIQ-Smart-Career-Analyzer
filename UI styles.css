@@ -1,0 +1,57 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+p {
+    font-family: monospace;
+    font-size: large;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+form {
+    text-align: center;
+    font-family: monospace;
+}
+
+#response {
+    display: none;
+    font-family: monospace;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+#loading {
+    display: none;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}
+
+textarea {
+    font-family: monospace;
+}
+
+#predictedField {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.custom-file {
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+}
